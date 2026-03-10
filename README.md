@@ -3,14 +3,18 @@
 An end-to-end EDA project on the Indian Premier League (IPL) dataset using Python.
 
 ## 📁 Project Structure
-ipl_eda_project/
-├── data/
-│   ├── matches.csv       # Match-level data
-│   └── deliveries.csv    # Ball-by-ball data
-├── notebook/
+```
+ipl_eda_project
+│
+├── data
+│   ├── matches.csv
+│   └── deliveries.csv
+│
+├── notebook
 │   └── ipl_analysis.ipynb
+│
 └── README.md
-
+```
 ## 🛠️ Libraries Used
 - pandas
 - numpy
