@@ -45,8 +45,8 @@ ipl_eda_project/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/SahilInstinct/ipl-eda-project.git
-cd ipl-eda-project
+git clone https://github.com/SahilInstinct/ipl-cricket-eda.git
+cd ipl-cricket-eda
 ```
 
 ### 2. Install dependencies
