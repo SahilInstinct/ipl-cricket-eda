@@ -33,7 +33,7 @@ ipl_eda_project/
  
 ## 📊 Dataset
  
-**Source:** [Kaggle — IPL Complete Dataset (2008–2020)](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020)
+**Source:** [Kaggle — IPL Complete Dataset (2008–2024)](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020)
  
 | File | Description | Key Columns |
 |---|---|---|
